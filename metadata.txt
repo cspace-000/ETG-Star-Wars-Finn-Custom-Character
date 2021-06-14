@@ -1,0 +1,5 @@
+﻿Name: SWFinnMod
+Version: 0.00
+DLL: TestFrmwk3.5.dll
+
+Depends: Base 0.2
